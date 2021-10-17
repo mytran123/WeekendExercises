@@ -42,7 +42,7 @@ $students = $studentManager->getAllStudents();
             <td><?php echo $student->getMath() ?></td>
             <td><?php echo $student->getPhysic() ?></td>
             <td><?php echo $student->getChemistry() ?></td>
-            <td><a href="student-detail.php?id=<?php echo $key?>">Detail</a></td>
+            <td><a href="detail-student.php?id=<?php echo $key?>">Detail</a></td>
             <td><a onclick="return confirm('Are you sure ?')" href="delete-student.php?id=<?php echo $key?>">Delete</a></td>
         </tr>
     <?php endforeach; ?>

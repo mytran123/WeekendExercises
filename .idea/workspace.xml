@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ffab8a-889f-4b99-a3f4-9e9ee1fdb6d4" name="Changes" comment="" />
+    <list default="true" id="69ffab8a-889f-4b99-a3f4-9e9ee1fdb6d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/weekendTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Services/student.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imges/defaultt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete-student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-detail.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +23,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zdTMeIcFE7Suk7ZMPwp3KJcUiF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,6 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/imges" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -35,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634476918589</updated>
-      <workItem from="1634476920094" duration="7069000" />
+      <workItem from="1634476920094" duration="7372000" />
     </task>
     <servers />
   </component>
