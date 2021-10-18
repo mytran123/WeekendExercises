@@ -1,14 +1,14 @@
 [
   {
-    "name: ": "My",
-    "math: ": 7,
-    "physic: ": 8,
-    "chemistry: ": 9
+    "name": "My",
+    "math": 7,
+    "physic": 8,
+    "chemistry": 9
   },
   {
-    "name: ": "Na",
-    "math: ": 7,
-    "physic: ": 9,
-    "chemistry: ": 8
+    "name": "Na",
+    "math": 7,
+    "physic": 9,
+    "chemistry": 8
   }
 ]

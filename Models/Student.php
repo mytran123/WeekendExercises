@@ -6,7 +6,6 @@ class Student
     public $math;
     public $physic;
     public $chemistry;
-    public $average;
 
     public function __construct($name,$math,$physic,$chemistry)
     {
